@@ -1,0 +1,6 @@
+C:\Users\akbhatia\Documents\Prerna\KAL Academy\C#\BankApp\BankApp\bin\Debug\BankApp.exe.config
+C:\Users\akbhatia\Documents\Prerna\KAL Academy\C#\BankApp\BankApp\bin\Debug\BankApp.exe
+C:\Users\akbhatia\Documents\Prerna\KAL Academy\C#\BankApp\BankApp\bin\Debug\BankApp.pdb
+C:\Users\akbhatia\Documents\Prerna\KAL Academy\C#\BankApp\BankApp\obj\Debug\BankApp.csproj.CoreCompileInputs.cache
+C:\Users\akbhatia\Documents\Prerna\KAL Academy\C#\BankApp\BankApp\obj\Debug\BankApp.exe
+C:\Users\akbhatia\Documents\Prerna\KAL Academy\C#\BankApp\BankApp\obj\Debug\BankApp.pdb

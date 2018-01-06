@@ -4,3 +4,4 @@ C:\Users\akbhatia\Documents\Prerna\KAL Academy\C#\BankApp\BankApp\bin\Debug\Bank
 C:\Users\akbhatia\Documents\Prerna\KAL Academy\C#\BankApp\BankApp\obj\Debug\BankApp.csproj.CoreCompileInputs.cache
 C:\Users\akbhatia\Documents\Prerna\KAL Academy\C#\BankApp\BankApp\obj\Debug\BankApp.exe
 C:\Users\akbhatia\Documents\Prerna\KAL Academy\C#\BankApp\BankApp\obj\Debug\BankApp.pdb
+C:\Users\akbhatia\Documents\Prerna\KAL Academy\C#\BankApp\BankApp\obj\Debug\BankApp.csprojResolveAssemblyReference.cache
